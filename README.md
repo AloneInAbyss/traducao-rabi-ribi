@@ -8,11 +8,9 @@ Links Importantes:
 - (Nossa página no Facebook)
 
 Contato:
-- Nome: **Thiago Henrique Assi**
+Nome: **Thiago Henrique Assi**
 - Email: **thiago-assi@outlook.com**
 - Meu Site: [Thiago Assi](https://thiago-assi.000webhostapp.com)
 
--
-
-- Nome: **Michell Christofferson**
+Nome: **Michell Christofferson**
 - Email: **michellcuchulainn@gmail.com**
