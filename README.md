@@ -11,3 +11,6 @@ Contato:
 - Nome: **Thiago Henrique Assi**
 - Email: **thiago-assi@outlook.com**
 - Meu Site: [Thiago Assi](https://thiago-assi.000webhostapp.com)
+
+- Nome: **Michell Christofferson**
+- Email: **michellcuchulainn@gmail.com**
