@@ -7,7 +7,7 @@ Links Importantes:
 - (Página Twitter GemaYue)
 - (Nossa página no Facebook)
 
-Contato:
+##Contato:
 Nome: **Thiago Henrique Assi**
 - Email: **thiago-assi@outlook.com**
 - Meu Site: [Thiago Assi](https://thiago-assi.000webhostapp.com)
