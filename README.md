@@ -1,5 +1,5 @@
 # Tradução Rabi-Ribi
-Nosso objetivo é concluir uma tradução (não-oficial) para o jogo Rabi-Ribi, desenvolvido por GemaYue e CreSpirit, e distribuido pelo Sekai Project.
+Nosso objetivo é concluir uma tradução (não-oficial) para o jogo Rabi-Ribi, desenvolvido pelo CreSpirit, na versão para Windows.
 
 Links Importantes:
 - (Página na Steam)
