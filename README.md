@@ -4,7 +4,7 @@ Nosso objetivo é concluir uma tradução (não-oficial) para o jogo Rabi-Ribi, 
 Links Importantes:
 - (Página na Steam)
 - (Página Sekai Project)
-- (Página Twitter GemaYue)
+- (Página CreSpirit)
 - (Nossa página no Facebook)
 
 ## Contato:
