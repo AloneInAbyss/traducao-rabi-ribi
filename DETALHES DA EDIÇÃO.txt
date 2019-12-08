@@ -1,0 +1,22 @@
+[POR FAVOR, PREENCHA ISTO SEMPRE QUE EDITAR O ARQUIVO]
+
+Linhas Editadas: 501 de 5356 (9% traduzido)
+
+[PADRÕES]
+"Master" = "Mestra"
+"Sigh" = "Ai"
+"Hey" = "Ei"
+"Ms." = "Sra"
+"Yikes" = "Ahh"
+"Boohoo" = "Aff"/"Ahh"
+"Woah" = "Wow"
+
+Rabi Ribi Town = Rabi Ribi Town
+Warp Stone = Warp Stone
+
+[DÚVIDAS]
+Linha 96, 149 , 373, 464
+167, 168, 172 - "Ms. Kitty" 
+
+[LINHAS ALTERADAS @]
+?, 134, 184
