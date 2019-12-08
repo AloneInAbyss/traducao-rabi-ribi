@@ -6,7 +6,7 @@ Links Importantes:
 - [Site do Sekai Project](https://sekaiproject.com/products/rabi-ribi/)
 - [Site do CreSpirit](https://www.crespirit.com/home)
 - [Rabi-Ribi - Facebook](https://www.facebook.com/RabiRibiGame/)
-- Rabi-Ribi Brasil - Facebook(https://www.facebook.com/RabiRibiBR/) [Desativado]
+- Rabi-Ribi Brasil - Facebook [Desativado]
 
 ## Contato:
 Nome: **Thiago Henrique Assi**
