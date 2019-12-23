@@ -1,5 +1,5 @@
-# Tradução Rabi-Ribi
-Nosso objetivo é concluir uma tradução (não-oficial) para o jogo ***Rabi-Ribi***, desenvolvido pelo estúdio *CreSpirit*, na versão para Windows.
+# Tradução - Rabi-Ribi em Português
+Nosso objetivo é concluir uma tradução (não-oficial) para português (pt-BR) do jogo ***Rabi-Ribi***, desenvolvido pelo estúdio *CreSpirit*, na versão para Windows.
 O arquivo de texto principal é o **story_es.rbrb**, que substitui o idioma espanhol no jogo. Este foi escolhido ao invés do inglês devido a acentuação gráfica, porém **a tradução está sendo feita a partir do idioma *inglês* do jogo**.
 
 Links Importantes:
